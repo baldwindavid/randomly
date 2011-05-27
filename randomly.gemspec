@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
     "test/helper.rb",
     "test/test_randomly.rb"
   ]
-  s.homepage = %q{https://github.com/baldwindavid/randomly}
+  s.homepage = %q{http://github.com/baldwindavid/randomly}
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.7}
